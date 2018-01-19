@@ -1,0 +1,9 @@
+{
+    "solutions": [
+        {
+            'name': 'CAPTCHA name',
+            'solution': 'CAPTCHA solution'
+        },
+        ...
+    ]
+}
